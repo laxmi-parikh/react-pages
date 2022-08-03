@@ -22,7 +22,8 @@ const Post = () => {
   
   return (
     <Container className="my-5" style={{ maxWidth: '800px' }}>
-      <h1>Create new Post</h1>
+
+          <h1>Create new Post</h1>
       <Form onSubmit={handleSubmit(onSubmit)} className="my-5">
         <Form.Group className="mb-3">
           <Form.Label>Title</Form.Label>
