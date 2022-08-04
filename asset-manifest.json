@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-pages/static/css/main.c49ef4fc.css",
-    "main.js": "/react-pages/static/js/main.6796325c.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/react-pages/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/react-pages/index.html",
-    "main.c49ef4fc.css.map": "/react-pages/static/css/main.c49ef4fc.css.map",
-    "main.6796325c.js.map": "/react-pages/static/js/main.6796325c.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/react-pages/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/laxmi-parikh/My-BLOG/static/css/main.c49ef4fc.css",
+    "main.js": "/laxmi-parikh/My-BLOG/static/js/main.d177f671.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/laxmi-parikh/My-BLOG/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/laxmi-parikh/My-BLOG/index.html",
+    "main.c49ef4fc.css.map": "/laxmi-parikh/My-BLOG/static/css/main.c49ef4fc.css.map",
+    "main.d177f671.js.map": "/laxmi-parikh/My-BLOG/static/js/main.d177f671.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/laxmi-parikh/My-BLOG/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c49ef4fc.css",
-    "static/js/main.6796325c.js"
+    "static/js/main.d177f671.js"
   ]
 }
